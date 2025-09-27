@@ -103,6 +103,8 @@ printf("\n");
 printf("\n");
 printf("\n");
 
+printf("Novo comit\n");
+
 return 0;
 
 } 
